@@ -1,1 +1,2 @@
 Hello from file1
+New content added
