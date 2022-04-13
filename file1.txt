@@ -1,2 +1,3 @@
 Hello from file1
 New content added
+rebase commit 1
