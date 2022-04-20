@@ -3,3 +3,7 @@ hello world
 hello there again1
 f
 hello bithces
+<<<<<<< HEAD
+=======
+from brach b
+>>>>>>> b1
